@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Inspiring New Boardgame Designers"
-subtitle: ""
 date: 2019-04-12 09:00:00
-background: '/PATH_TO_IMAGE'
+background: 'assets/img/rugs.jpg'
 ---
 Hey! 
 
@@ -11,20 +10,10 @@ I'm Ben, one of the three co-founders of Con Gas Games. In 2015 we launched [Att
 
 Four years on we are developing our second boardgame: Cat Chess! Here's a little more about the game:
 
-> Cat Chess is a game for 2 or more players lasting 20-30 minutes, suitable for 8 year olds and above. Cat Chess is a battle for cat-supremacy in the city, from the streets to the rooftops. You'll be building the city that your gang of cats will move, climb and scuffle over the best vantage points to keep an eye on other cats. Cats score one point for every cat they can see and lose one point for each cat that cat see them. 
+> Cat Chess is a game for 2 or more players lasting 20-30 minutes, suitable for 8 year olds and above. Cat Chess is a battle for cat-supremacy in New York, from the streets to the rooftops. You'll be building the city that your gang of cats will move, climb and scuffle over the best vantage points to keep an eye on other cats. If you like games that are a mix of strategy, change and dexterity then you'll love Cat Chess.
 
 We'll be launching Cat Chess to the public in May/June this year. If you'd like us to email you when the project is live you can fill out our [contact form](/contact). In the meantime we'll be using this website to blog about the game's progress as well as talking about the broader subject of boardgame design. 
 
 After five years of playing, designing, marketing and selling a game as a small, independent studio we think our experience is worth sharing with other boardgamers with a boardgame of their own inside of them. We'll be interviewing other designers, publishers and distributors and talking about the process of getting your game from idea into production. 
 
 If you'd like to feature on this blog (we'll be hosting written, audio and video interviews) then reach out to us [on twitter](https://twitter.com/catchessgame). 
-
-
-
-
-
-
-
-
-
-
