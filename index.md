@@ -6,5 +6,4 @@ layout: home
 background: 'assets/img/kittehs.png'
 ---
 
-The latest boardgame from Con Gas Games, launching on Kickstarter in May/Jun. If you'd like us to email you when the project is live fill in the [contact form](/contact).
- 
+The latest boardgame from Con Gas Games, launching on Kickstarter in May/Jun. In the meantime we'll be blogging about the game's progress as well as talking about the broader subject of boardgame design: 

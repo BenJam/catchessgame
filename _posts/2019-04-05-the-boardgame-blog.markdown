@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Inspiring New Boardgame Designers"
+subtitle: "Because the world needs more boardgames..."
 date: 2019-04-12 09:00:00
 background: 'assets/img/rugs.jpg'
 ---
