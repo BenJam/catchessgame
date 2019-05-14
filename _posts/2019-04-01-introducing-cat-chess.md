@@ -3,7 +3,7 @@ layout: post
 title: "Introducing Cat Chess"
 subtitle: "The second game from Con Gas Games"
 date: 2019-04-12 09:00:00
-background: 'assets/img/kittehs.png'
+background: '/assets/img/kittehs.png'
 ---
 In 2015 Con Gas Games launched [Attack The Pack](https://attackthepack.com) on Kickstarter, a cycling game for and by cycling enthusiasts. Four years on we are developing our second boardgame: Cat Chess!
 
