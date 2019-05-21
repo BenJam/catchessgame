@@ -11,7 +11,7 @@ I'm Ben, one of the three co-founders of Con Gas Games. In 2015 we launched [Att
 
 Four years on we are developing our second boardgame: Cat Chess! Here's a little more about the game:
 
-> Cat Chess is a game for 2 or more players lasting 20-30 minutes, suitable for 8 year olds and above. Cat Chess is a battle for cat-supremacy in New York, from the streets to the rooftops. You'll be building the city that your gang of cats will move, climb and scuffle over the best vantage points to keep an eye on other cats. If you like games that are a mix of strategy, change and dexterity then you'll love Cat Chess.
+> Cat Chess is a 3D boardgame for 2 or more players lasting 20-30 minutes, suitable for 8 year olds and above. Cat Chess is a battle from the streets to the rooftops. Build the city and move, climb and scuffle your team of cats for the best vantage points to keep an eye on their rivals. If you like games that are a mix of strategy, chance and dexterity then you'll love Cat Chess.
 
 We'll be launching Cat Chess to the public in May/June this year. If you'd like us to email you when the project is live you can fill out our [contact form](/contact). In the meantime we'll be using this website to blog about the game's progress as well as talking about the broader subject of boardgame design. 
 
