@@ -24,7 +24,7 @@ instagram_username: catchessgame
 
 # Build settings
 theme: jekyll-theme-clean-blog
-remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyl
 
 markdown: kramdown
 
