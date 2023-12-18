@@ -23,17 +23,10 @@ twitter_username: catchessgame
 instagram_username: catchessgame
 
 # Build settings
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyl
-
-markdown: kramdown
-
-paginate: 5
-paginate_path: "/blog/page:num/"
+theme: jekyll-theme-clean-blog
 
 plugins:
   - jekyll-feed
-  - jekyll-paginate
-  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
